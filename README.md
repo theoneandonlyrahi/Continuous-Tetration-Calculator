@@ -1,6 +1,6 @@
 # Continuous Tetration Calculator
 
-A Python implementation of continuous-height tetration using my interpolation formulas.
+A Python 3 and C++ implementation of continuous-height tetration using my interpolation formulas.
 
 Tetration is the fourth hyper-operation (iterative exponentiation). While integer-height tetration is well-defined, extending it to fractional and negative heights has no universally accepted solution. This calculator implements a geometric interpolation for positive real heights and a recursive logarithmic approach for negative continuous heights.
 
